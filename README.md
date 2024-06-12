@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Triples92
 - 👀 I’m interested in anything data, and machine learning!
 - 🌱 I’m currently learning Python, Data analytics and ML modelling
+- 🙌🏻 Stay tuned for more projects
 - 😄 Pronouns: he/him 
 
 <!---

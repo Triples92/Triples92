@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Triples92
 - 👀 I’m interested in anything data, and machine learning!
 - 🌱 I’m currently learning Python, Data analytics and ML modelling
-- 😄 Pronouns: his/him 
+- 😄 Pronouns: he/him 
 
 <!---
 Triples92/Triples92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

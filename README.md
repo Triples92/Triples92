@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sari</h1>
+<h1 align="center">Hi! I'm Sari<img src='https://github.com/user-attachments/assets/65f830b9-9966-4632-b0b6-c76bb8551cfe' width="150" height="150"/></h1>
+
 <h3 align="center">Data Scientist and Story Teller</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=triples92&label=Profile%20views&color=0e75b6&style=flat" alt="triples92" /> </p>

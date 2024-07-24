@@ -27,7 +27,7 @@
 <h4>🧮Statistics</h4>
 <p><code>Hypothesis Testing</code> | <code>A/B Testing</code> | <code>Regression</code> | <code>Classification</code></p>
 <h4>☁️Cloud Computing</h4>
-<p><code>AWS</code> | <code>Spark</code> | <code>Hadoop</code> | <code>Hive</code> | <code>Docker</code></p>
+<p><code>AWS</code> | <code>Spark</code> | <code>Hadoop</code> | <code>Hive</code> | <code>Docker</code> | <code>Postman</code></p>
 <h4>✔️Version Control</h4>
 <p><code>GitHub</code> | <code>Git</code></p>
   

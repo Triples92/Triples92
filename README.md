@@ -4,10 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=triples92&label=Profile%20views&color=0e75b6&style=flat" alt="triples92" /> </p>
 
-- 🌱 I’m currently expanding my knowledge on **Computer Vision and other machine Learning Solutions**
-
-- 💬 Ask me about **how ML can be leveraged for the greater good!**
-
 <h3 align="left"> 👨 A little about me: </h3>
 <p align="left"> My name is Sari, a Data Scientist with a background in Process Design and Client Services! I am passionate on telling a story with data, and using Machine Learning and AI to improve lives on a community scale.</p>
 <p> A fun fact about me: I am a Brazilian Jiu Jitsu blue belt, and I enjoy working out and sparring when I get the opportunity!</p>

@@ -10,6 +10,11 @@
 <p align="left"> My name is Sari, a Data Scientist with a background in Process Design and Client Services! I am passionate on telling a story with data, and using Machine Learning and AI to improve lives on a community scale.</p>
 <p> A fun fact about me: I am a Brazilian Jiu Jitsu blue belt, and I enjoy working out and sparring when I get the opportunity!</p>
 <p>I'm currently expanding my skillset by learning JS for both frontend and backend! </p>
+
+<p> I occassionally drop some articles and instructions on how to best utilize the many opensourced Ai models out there! Check them out below:</p>
+<a href="https://medium.com/@sari.sarieddine"><img src='https://github.com/user-attachments/assets/00771135-7652-42df-b6fd-bf9cc42f0709' height='50' width='125' /></a>
+
+
 <h3 align="left">Reach out to me:</h3>
 <p align="left"> 
 <a href="https://linkedin.com/in/sari-sarieddine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sari-sarieddine" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:sari.sarieddine@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" alt="sari.sarieddine@gmail.com" height="50" width="50" /></a> 
@@ -37,12 +42,23 @@
 
 
 
-<h2>🗃️Public Repositories </h2>
+<h2>🗃️Notible Public Repositories </h2>
 <p> <b>Forest Fire Prediction Model</b>: 
 This project focuses on using data science to anticipate forest fires, which are becoming more frequent and dangerous due to rising temperatures. By predicting these fires, communities can better prepare and manage the associated risks. The project utilized Decision Tree and Random Forest models, achieving decent accuracy by examining different sets of features. <a href="https://github.com/Triples92/Forest_fire_prediction_Model"> Learn more</a> </p>
 
 <p> <b>Football Possession Analyzer</b>:
 This project uses YOLOv5's pretrained model to measure the possession of a football between two teams. The YOLO model was fine tuned to be able to detect players, referees and the ball in the pitch. This project was done as a way for me to better understand computer vision models, and explore their use cases. <a href='https://github.com/Triples92/Football_Analysis_YOLO'>Learn more</a></p>
+
+<p> <b>Coding Assistant with LangChain and Ollama</b>:
+This open-source project demonstrates how to create a basic code assistance tool using LangChain and Ollama, leveraging the power of language models for code completion and suggestions.
+With support for popular programming languages like React, Python, Java, Node.js, and more, this assistant can help developers by providing:
+Code editing
+Language flexibility
+This project showcases how open-source libraries can be used to create similar tools without relying on closed-source solutions. Feel free to contribute and make it your own! <a href='https://github.com/Triples92/Coding-Assistant-with-LangChain-and-Ollama'>Learn more</a></p>
+</p>
+
+<p> Take a look at my other projects <a href='https://github.com/Triples92?tab=repositories'>here</a>!</p>
+
 <!---
 Triples92/Triples92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -43,6 +43,7 @@
 
 
 <h2>🗃️Notible Public Repositories </h2>
+
 <p> <b>Forest Fire Prediction Model</b>: 
 This project focuses on using data science to anticipate forest fires, which are becoming more frequent and dangerous due to rising temperatures. By predicting these fires, communities can better prepare and manage the associated risks. The project utilized Decision Tree and Random Forest models, achieving decent accuracy by examining different sets of features. <a href="https://github.com/Triples92/Forest_fire_prediction_Model"> Learn more</a> </p>
 
@@ -56,7 +57,9 @@ Code editing
 Language flexibility
 This project showcases how open-source libraries can be used to create similar tools without relying on closed-source solutions. Feel free to contribute and make it your own! <a href='https://github.com/Triples92/Coding-Assistant-with-LangChain-and-Ollama'>Learn more</a></p>
 </p>
-
+<p> <b> RAG with Online Search Capabilities</b>:
+  This project provides a demonstration of a local implementation of a Retrieval-Augmented Generation (RAG) system integrated with Ollama, designed to operate without relying on external APIs or databases for processing. This system is capable of generating responses based on stored documents or searching the web using TAVILY if needed. <a href='https://github.com/Triples92/RAG_with_Online_Access'>Learn more</a> 
+</p>
 <p> Take a look at my other projects <a href='https://github.com/Triples92?tab=repositories'>here</a>!</p>
 
 <!---
